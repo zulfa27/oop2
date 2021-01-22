@@ -1,0 +1,158 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oop.travel"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:25:5-79
+13-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:25:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:26:5-67
+14-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:26:22-64
+15
+16    <application
+16-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:6:5-42:19
+17        android:allowBackup="true"
+17-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:7:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:8:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:9:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:10:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:11:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:12:9-40
+26        <activity
+26-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:14:9-22:20
+27            android:name="com.oop.travel.activity.MainActivity"
+27-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:15:13-50
+28            android:screenOrientation="portrait" >
+28-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:16:13-49
+29            <intent-filter>
+29-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:17:13-21:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:18:17-69
+30-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:18:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:20:17-77
+32-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:20:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:23:9-27:55
+36            android:name="com.oop.travel.activity.LoginActivity"
+36-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:24:13-51
+37            android:configChanges="keyboardHidden|orientation|screenSize"
+37-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:25:13-74
+38            android:screenOrientation="portrait"
+38-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:26:13-49
+39            android:windowSoftInputMode="adjustPan" />
+39-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:27:13-52
+40        <activity
+40-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:28:9-32:55
+41            android:name="com.oop.travel.activity.RegisterActivity"
+41-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:29:13-54
+42            android:configChanges="keyboardHidden|orientation|screenSize"
+42-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:30:13-74
+43            android:screenOrientation="portrait"
+43-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:31:13-49
+44            android:windowSoftInputMode="adjustPan" />
+44-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:32:13-52
+45        <activity
+45-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:33:9-35:52
+46            android:name="com.oop.travel.activity.ProfileActivity"
+46-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:34:13-53
+47            android:screenOrientation="portrait" />
+47-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:35:13-49
+48        <activity
+48-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:36:9-38:52
+49            android:name="com.oop.travel.activity.HistoryActivity"
+49-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:37:13-53
+50            android:screenOrientation="portrait" />
+50-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:38:13-49
+51        <activity
+51-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:39:9-41:52
+52            android:name="com.oop.travel.activity.BookKeretaActivity"
+52-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:40:13-56
+53            android:screenOrientation="portrait" />
+53-->C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:41:13-49
+54
+55        <service
+55-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:29:9-35:19
+56            android:name="com.google.firebase.components.ComponentDiscoveryService"
+56-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:30:13-84
+57            android:directBootAware="true"
+57-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+58            android:exported="false" >
+58-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:31:13-37
+59            <meta-data
+59-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:32:13-34:85
+60                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+60-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:33:17-109
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:34:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:20:13-22:85
+63                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+63-->[com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:21:17-111
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:22:17-82
+65            <!--
+66                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+67                clients to use it as well, by defining this registrar in their own core/common library.
+68            -->
+69            <meta-data
+69-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+70                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+70-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+72        </service>
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+78
+79        <provider
+79-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+80            android:name="com.google.firebase.provider.FirebaseInitProvider"
+80-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+81            android:authorities="com.oop.travel.firebaseinitprovider"
+81-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+82            android:directBootAware="true"
+82-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+83            android:exported="false"
+83-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+84            android:initOrder="100" />
+84-->[com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+85
+86        <meta-data
+86-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+87            android:name="com.google.android.gms.version"
+87-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+89    </application>
+90
+91</manifest>

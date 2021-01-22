@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6072302d568f69d831f4f0545f590880\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5c38561bb1a4e04e036000d4092fd63e\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\bfa8b055fa7b83555b09697290301614\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6e7206317e4abfd5e0ada5751fcf8131\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\c1f33b3b817df111a9588292b57f87b6\firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\2e92ec36d304f022b63ca56b613ceec4\firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1f0ab3353c801efe1ad8336f4d296703\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\90bcadaf6d2575386ca49e9adef2def4\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1e2579c7ee8dc083b8838f5f6f1ff1b5\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\7761dad9d580543cc9f26c748322209d\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\ed7bc1ce05d1687d364a3d4edb797fc8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\e890c52ce06b5a23703fb312e7a8e5e9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\665f9f8e6380b5e537eaf504d653f74e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\77c951f9f5bc77f189c32037d3f7b12c\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\2dd3f8513b3abbc75a8a19fa4ed0f517\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\dacd21a84668386315b45f3184d30225\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\0970c643acb9fe0cc508106926c9b768\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\57142e1c33ca21e3fd6a7d0bcdba26eb\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\4e873aed9941ce91e3e90d9b0fd233dd\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\94f86a21c90aadac1682dd636790064b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\d532a3daac96185e7091092798611864\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5b07b877e51ffc0339e97f4c61c9fbfc\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1a29a7e0f1195d7c0fa0245b8ee35cf5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\a888f79ce872dc7f38014395016586b2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\f4726bfcf2934d7d9e3d5db116bfcf30\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\227b0b27f1035ba10131e5f30cd20e64\firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\20d608ec6ce384e34189503122d0ab1a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\0085358784a65f50851085638e893566\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\298de5b228fef8f7775d72b341600ae9\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\eac03d00073999fdc9e328b1195c2567\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\b45d21df56e4835ca6abd3e761bbc885\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6855ee30a3df069397865ee9e60fcd88\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5dc61e91f7cbb376f206ad7cf1ca211d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1a1dbdb351bb98c0edfee7e5e9e6804f\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\ab04e85ed0d88885cc18da8cbd6a685d\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\92afbde2a23d821d5aac009b8ae8cec6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\8ab83dc2096338aa2b39248cc2b130be\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6025c34977c66bd3c98a0350360a4c51\protolite-well-known-types-17.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\3f84e0de6a6cebd5445f71bf1eb5316f\grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:6:5-42:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6072302d568f69d831f4f0545f590880\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6072302d568f69d831f4f0545f590880\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\bfa8b055fa7b83555b09697290301614\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\bfa8b055fa7b83555b09697290301614\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\c1f33b3b817df111a9588292b57f87b6\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\c1f33b3b817df111a9588292b57f87b6\firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1f0ab3353c801efe1ad8336f4d296703\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1f0ab3353c801efe1ad8336f4d296703\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\20d608ec6ce384e34189503122d0ab1a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\20d608ec6ce384e34189503122d0ab1a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:13:9-60
+	android:roundIcon
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.oop.travel.activity.MainActivity
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:15:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.oop.travel.activity.LoginActivity
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:23:9-27:55
+	android:screenOrientation
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:26:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:27:13-52
+	android:configChanges
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:24:13-51
+activity#com.oop.travel.activity.RegisterActivity
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:28:9-32:55
+	android:screenOrientation
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:31:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:32:13-52
+	android:configChanges
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:29:13-54
+activity#com.oop.travel.activity.ProfileActivity
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:34:13-53
+activity#com.oop.travel.activity.HistoryActivity
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:37:13-53
+activity#com.oop.travel.activity.BookKeretaActivity
+ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml:40:13-56
+uses-sdk
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6072302d568f69d831f4f0545f590880\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6072302d568f69d831f4f0545f590880\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5c38561bb1a4e04e036000d4092fd63e\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5c38561bb1a4e04e036000d4092fd63e\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\bfa8b055fa7b83555b09697290301614\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\bfa8b055fa7b83555b09697290301614\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6e7206317e4abfd5e0ada5751fcf8131\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6e7206317e4abfd5e0ada5751fcf8131\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\c1f33b3b817df111a9588292b57f87b6\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\c1f33b3b817df111a9588292b57f87b6\firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\2e92ec36d304f022b63ca56b613ceec4\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\2e92ec36d304f022b63ca56b613ceec4\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1f0ab3353c801efe1ad8336f4d296703\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1f0ab3353c801efe1ad8336f4d296703\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\90bcadaf6d2575386ca49e9adef2def4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\90bcadaf6d2575386ca49e9adef2def4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1e2579c7ee8dc083b8838f5f6f1ff1b5\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1e2579c7ee8dc083b8838f5f6f1ff1b5\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\7761dad9d580543cc9f26c748322209d\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\7761dad9d580543cc9f26c748322209d\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\ed7bc1ce05d1687d364a3d4edb797fc8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\ed7bc1ce05d1687d364a3d4edb797fc8\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\e890c52ce06b5a23703fb312e7a8e5e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\e890c52ce06b5a23703fb312e7a8e5e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\665f9f8e6380b5e537eaf504d653f74e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\665f9f8e6380b5e537eaf504d653f74e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\77c951f9f5bc77f189c32037d3f7b12c\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\77c951f9f5bc77f189c32037d3f7b12c\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\2dd3f8513b3abbc75a8a19fa4ed0f517\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\2dd3f8513b3abbc75a8a19fa4ed0f517\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\dacd21a84668386315b45f3184d30225\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\dacd21a84668386315b45f3184d30225\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\0970c643acb9fe0cc508106926c9b768\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\0970c643acb9fe0cc508106926c9b768\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\57142e1c33ca21e3fd6a7d0bcdba26eb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\57142e1c33ca21e3fd6a7d0bcdba26eb\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\4e873aed9941ce91e3e90d9b0fd233dd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\4e873aed9941ce91e3e90d9b0fd233dd\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\94f86a21c90aadac1682dd636790064b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\94f86a21c90aadac1682dd636790064b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\d532a3daac96185e7091092798611864\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\d532a3daac96185e7091092798611864\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5b07b877e51ffc0339e97f4c61c9fbfc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5b07b877e51ffc0339e97f4c61c9fbfc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1a29a7e0f1195d7c0fa0245b8ee35cf5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1a29a7e0f1195d7c0fa0245b8ee35cf5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\a888f79ce872dc7f38014395016586b2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\a888f79ce872dc7f38014395016586b2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5647d6473ee938e5f25bcd300373e109\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\f4726bfcf2934d7d9e3d5db116bfcf30\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\f4726bfcf2934d7d9e3d5db116bfcf30\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\227b0b27f1035ba10131e5f30cd20e64\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\227b0b27f1035ba10131e5f30cd20e64\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\20d608ec6ce384e34189503122d0ab1a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\20d608ec6ce384e34189503122d0ab1a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\0085358784a65f50851085638e893566\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\0085358784a65f50851085638e893566\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\298de5b228fef8f7775d72b341600ae9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\298de5b228fef8f7775d72b341600ae9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\eac03d00073999fdc9e328b1195c2567\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\eac03d00073999fdc9e328b1195c2567\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\b45d21df56e4835ca6abd3e761bbc885\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\b45d21df56e4835ca6abd3e761bbc885\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6855ee30a3df069397865ee9e60fcd88\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6855ee30a3df069397865ee9e60fcd88\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5dc61e91f7cbb376f206ad7cf1ca211d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5dc61e91f7cbb376f206ad7cf1ca211d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1a1dbdb351bb98c0edfee7e5e9e6804f\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\1a1dbdb351bb98c0edfee7e5e9e6804f\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\ab04e85ed0d88885cc18da8cbd6a685d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\ab04e85ed0d88885cc18da8cbd6a685d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\92afbde2a23d821d5aac009b8ae8cec6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\92afbde2a23d821d5aac009b8ae8cec6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\8ab83dc2096338aa2b39248cc2b130be\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\8ab83dc2096338aa2b39248cc2b130be\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6025c34977c66bd3c98a0350360a4c51\protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\6025c34977c66bd3c98a0350360a4c51\protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\3f84e0de6a6cebd5445f71bf1eb5316f\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\3f84e0de6a6cebd5445f71bf1eb5316f\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luqir\Downloads\oop2-main (1)\oop2-main\TravelApps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\3f84e0de6a6cebd5445f71bf1eb5316f\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\3f84e0de6a6cebd5445f71bf1eb5316f\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\5fb46344d15310804662b134b3fadef5\firebase-database-19.6.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\9dd05311eb36cfa7bb8febb0871a5276\firebase-firestore-22.0.1\AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\998cfe536f3f80274f221055d7dc8268\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\66c04cf1ad20969a4c7c2e6b703c5cdd\firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luqir\.gradle\caches\transforms-2\files-2.1\834e6e25785101c8eaa24cba5498533f\play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
